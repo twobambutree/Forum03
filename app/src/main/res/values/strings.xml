@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Forum 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="announcements">Announcements</string>
+    <string name="forum">Forum</string>
+</resources>
